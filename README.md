@@ -4,7 +4,7 @@ Este es un proyecto desarrollado por Jaime Arriola, un desarrollador de React Na
 
 ## Descripción
 
-Aquí puedes agregar una descripción sobre tu proyecto.
+Challenge app
 
 ## Autor
 
