@@ -1,3 +1,3 @@
-export { HomeScreen } from "./Home/HomeScreen";
+export { HomeScreen } from "./Home/HomeScreen/HomeScreen";
 export { ProductDetail } from "./ProductDetail";
 
